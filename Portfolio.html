@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Roboto&display=swap');
+    </style>
+    <link href="style.css" rel="stylesheet">
+    <title>Portfolio</title>
+</head>
+<body class="page-wrapper">
+
+     <!--navigation links-->
+     <nav class="nav-wrapper">
+        <img src="chas-academy-logo.png" alt="logo" class="logo">
+        <ul class="nav">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="Cv.html">Cv</a></li>
+          <li><a class="active" href="Portfolio.html">Portfolio</a></li>
+          <li><a href="Contact.html">Contact</a></li>
+        </ul>
+      </nav>
+
+    <!--header-->
+  <Header class="main-header">
+    <!--en rund profilbild här och bakom den en bakgrundsfärg-->
+         <div class="container">
+            <img src="digitalphoto.jpg" alt="profile" class="profile">
+            <h1 class="heading1">ASHO <span>ABDI HASSAN</span></h1>
+            <h2 class="heading2">PORTFOLIO</h2>
+         </div>
+      </Header>
+      <div class="clearfix"></div>
+
+    <div class="wrapper">
+    <!--Image slider-->
+      <div class="slider">
+        <div class="gallery">
+          <a target="_blank" href="port1.jpg"><img src="port1.jpg" alt= "Cinque Terre" class="slider-img"></a>
+        </div>
+
+        <button class="btn1" onclick= "Back()">Back</button>
+        <button class="btn1" onclick= "Next()">Next</button>
+     </div>
+
+     <div class="game">
+      <img src="game.png" alt="rock, paper & scissors" class="rock-paper-scissors">
+      <form action=https://ashodiriye.github.io/ROCK-PAPER-SCISSORS><button formtarget=“_blank” class="btn1">Play</button></form>
+      <form action=https://github.com/ashodiriye/ROCK-PAPER-SCISSORS.git><button formtarget=“_blank” class="btn1">Github repo</button></form>
+     </div>
+    </div>
+  <script src="js.js"></script>
+</body>
+</html>

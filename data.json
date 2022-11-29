@@ -1,0 +1,41 @@
+{
+    "profile": [
+        {
+            "name": "",
+            "info": "Etiam suscipit et arcu eget ultrices. In hendrerit nibh in nisl convallis eleifend. In sapien enim, condimentum non lectus quis, pretium convallis neque. Sed ullamcorper est vitae augue sodales lobortis. Mauris suscipit mi id hendrerit posuere. Quisque vel pharetra elit. Curabitur pretium tristique porttitor. Donec sodales orci ullamcorper sapien efficitur luctus. Maecenas tincidunt dui ac orci porttitor sollicitudin."
+        }
+    ],
+    "experience": [
+        {
+            "name": "SELECTA: KUNDTJÄNSTMEDARBETARE (2022 - NU)",
+            "info": "Mauris suscipit mi id hendrerit posuere. Quisque vel pharetra elit. Curabitur pretium tristique porttitor.Etiam suscipit et arcu eget ultrices. In hendrerit nibh in nisl convallis eleifend."
+        },
+        {
+            "name": "STOCKHOLM LIVE: EVENEMANGSVÄRD(2016 - NU)",
+            "info": "Mauris suscipit mi id hendrerit posuere. Quisque vel pharetra elit. Curabitur pretium tristique porttitor.Etiam suscipit et arcu eget ultrices. In hendrerit nibh in nisl convallis eleifend."
+        },
+        {
+            "name": "LÄXHJÄLP: LÄXHJÄLPARE (2020 - 2021)",
+            "info": "Mauris suscipit mi id hendrerit posuere. Quisque vel pharetra elit. Curabitur pretium tristique porttitor.Etiam suscipit et arcu eget ultrices. In hendrerit nibh in nisl convallis eleifend."
+        },
+        {
+            "name": "RINKEBY-KISTA STADSDELSFÖRVALTNING: HANDLEDARE(2021 - 2022)",
+            "info": "Mauris suscipit mi id hendrerit posuere. Quisque vel pharetra elit. Curabitur pretium tristique porttitor.Etiam suscipit et arcu eget ultrices. In hendrerit nibh in nisl convallis eleifend."
+        }
+    ],
+    "education": [
+        {
+            "name": "UNIVERSITY (2016 - 2022)",
+            "info": "BACHELOR DEGREE OF BUSINESS ADMINISTRATION" 
+        }
+    ],
+
+    "languages": [
+        {
+            "name": "",
+            "info": "Swedish, English & Somali"
+        }
+    ]
+
+
+}
